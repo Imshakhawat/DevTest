@@ -1,0 +1,10 @@
+﻿INSERT INTO Products (Id, Name, Price) VALUES ('e69b9762-3f23-4e0b-b5db-27f28f28b607', 'Product 1', 10.99);
+INSERT INTO Products (Id, Name, Price) VALUES ('d9e6a05b-4e8d-40be-9c0e-c85ae9b6d502', 'Product 2', 19.99);
+INSERT INTO Products (Id, Name, Price) VALUES ('a9720512-5705-46d6-b8dd-2d570f8819b1', 'Product 3', 7.5);
+INSERT INTO Products (Id, Name, Price) VALUES ('cbdb7e95-4452-4175-9e47-19f9dbad5ed7', 'Product 4', 24.99);
+INSERT INTO Products (Id, Name, Price) VALUES ('eff1f58b-5c82-4c4e-a614-b7a7a0287380', 'Product 5', 12.5);
+INSERT INTO Products (Id, Name, Price) VALUES ('f1d6289a-8b5b-477c-baed-89c5eb7e8821', 'Product 6', 8.99);
+INSERT INTO Products (Id, Name, Price) VALUES ('0c6b6d81-5de7-4a0e-9779-8edc0d5979bc', 'Product 7', 15.75);
+INSERT INTO Products (Id, Name, Price) VALUES ('e45e2824-07fd-4929-982b-fb792ed1fb6c', 'Product 8', 6.49);
+INSERT INTO Products (Id, Name, Price) VALUES ('a8707c81-57a5-4bb7-899c-27bea6f96f4c', 'Product 9', 9.99);
+INSERT INTO Products (Id, Name, Price) VALUES ('84749e0c-7e43-49da-aa8f-746b38a4d2e7', 'Product 10', 14.99);
